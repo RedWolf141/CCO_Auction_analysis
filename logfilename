@@ -1,0 +1,356 @@
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+C:\Users\MyPC\Desktop\py\new.py:63: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(ChromeDriverManager().install())
+C:\Users\MyPC\Desktop\py\new.py:67: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div/ion-content/div/div[5]/p').click()
+C:\Users\MyPC\Desktop\py\new.py:73: DeprecationWarning: find_element_by_class_name is deprecated. Please use find_element(by=By.CLASS_NAME, value=name) instead
+  driver.find_element_by_class_name("h-8  ").send_keys("wolf141@furry.com")
+C:\Users\MyPC\Desktop\py\new.py:76: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div/ion-content/div/div[4]/div[2]/div[2]/div[2]/div/input').send_keys("qwer1234")
+C:\Users\MyPC\Desktop\py\new.py:80: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div/ion-content/div/div[4]/div[3]/div[2]/a/span').click()
+C:\Users\MyPC\Desktop\py\new.py:84: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="root"]/ion-app/div[4]/div/div/div/div[4]/div[2]/div').click()
+C:\Users\MyPC\Desktop\py\new.py:88: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div/ion-tabs/div/ion-router-outlet/div/ion-content/div/div/div[3]/span/span').click()
+C:\Users\MyPC\Desktop\py\new.py:92: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div[2]/ion-content/div/div[13]').click()
+C:\Users\MyPC\Desktop\py\new.py:96: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="main"]/div[3]/ion-content/div/div[1]').click()
+지금은 2022 년 6 월 27 일 13 시 44 분 15 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 14 시 44 분 14 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 15 시 44 분 46 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 16 시 45 분 19 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 17 시 45 분 50 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 18 시 46 분 21 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 19 시 46 분 55 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 20 시 47 분 29 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 21 시 48 분 3 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 22 시 48 분 36 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 27 일 23 시 49 분 8 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+[WDM] - Driver has been saved in cache [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53]
+지금은 2022 년 6 월 28 일 0 시 49 분 43 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 1 시 50 분 17 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 2 시 50 분 50 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 3 시 51 분 24 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 4 시 51 분 56 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 5 시 52 분 28 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 6 시 53 분 0 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 7 시 53 분 33 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 8 시 54 분 3 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 9 시 54 분 34 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 10 시 55 분 8 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 11 시 55 분 40 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 12 시 56 분 12 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 13 시 56 분 45 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 14 시 57 분 18 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 15 시 57 분 49 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 16 시 58 분 20 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 17 시 58 분 53 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 18 시 59 분 25 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 19 시 59 분 58 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 21 시 0 분 31 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 22 시 1 분 3 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 28 일 23 시 1 분 39 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+[WDM] - Driver has been saved in cache [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53]
+지금은 2022 년 6 월 29 일 0 시 2 분 13 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 29 일 1 시 2 분 45 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+[WDM] - Driver [C:\Users\MyPC\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+지금은 2022 년 6 월 29 일 2 시 3 분 17 초입니다. 
+
+
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 103.0.5060
+[WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
+Traceback (most recent call last):
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001E97EF57490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_103.0.5060 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E97EF57490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\MyPC\Desktop\py\new.py", line 122, in <module>
+    schedule.run_pending()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\schedule\__init__.py", line 780, in run_pending
+    default_scheduler.run_pending()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\schedule\__init__.py", line 100, in run_pending
+    self._run_job(job)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\schedule\__init__.py", line 172, in _run_job
+    ret = job.run()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\schedule\__init__.py", line 661, in run
+    ret = self.job_func()
+  File "C:\Users\MyPC\Desktop\py\new.py", line 63, in doScreenShot
+    driver = webdriver.Chrome(ChromeDriverManager().install())
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\chrome.py", line 37, in install
+    driver_path = self._get_driver_path(self.driver)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\core\manager.py", line 29, in _get_driver_path
+    binary_path = self.driver_cache.find_driver(driver)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\core\driver_cache.py", line 95, in find_driver
+    driver_version = driver.get_version()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\core\driver.py", line 42, in get_version
+    self.get_latest_release_version()
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\drivers\chrome.py", line 44, in get_latest_release_version
+    resp = self._http_client.get(url=latest_release_url)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\webdriver_manager\core\http.py", line 32, in get
+    resp = requests.get(url=url, verify=self._ssl_verify, **kwargs)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\MyPC\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_103.0.5060 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E97EF57490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
